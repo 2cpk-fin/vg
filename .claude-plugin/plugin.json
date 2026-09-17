@@ -1,0 +1,9 @@
+{
+  "name": "vg",
+  "version": "1.0.0",
+  "description": "Autonomous semantic video engine for AI coding agents. Craft videos from prompts using agent multimodal vision and FFmpeg.",
+  "author": {
+    "name": "2cpk-fin",
+    "url": "https://github.com/2cpk-fin/vg"
+  }
+}
