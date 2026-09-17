@@ -1,0 +1,8 @@
+# Temporary analysis artifacts
+.temp/
+temp/
+*.tmp
+*.log
+
+# Keep empty folder structures in git
+!.gitkeep
